@@ -1,6 +1,6 @@
 const BOT_TOKEN = "8049379557:AAFTFfol-zFUxQDMCGypVwAHRsd6vl0oNqs";
 const TELEGRAM_API = `https://api.telegram.org/bot${BOT_TOKEN}`;
-const M3U_URL = "http://tv.zeuspro.xyz:2052/get.php?username=Y8j7ByPgL2&password=MC5yEDwNEx&type=m3u_plus
+const M3U_URL = "http://tv.zeuspro.xyz:2052/get.php?username=Y8j7ByPgL2&password=MC5yEDwNEx&type=m3u_plus"
 
 Please use IPTV app to open this link (http://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv)";
 const CHANNELS_PER_PAGE = 5;
